@@ -8,7 +8,7 @@ In May 2023, I shifted gears from Product Management to aspiring Data Analyst, i
 I have conquered [SC001](https://github.com/BeckaYu/stanCode-SC001.git) and [SC101](https://github.com/BeckaYu/stanCode-SC101.git) courses, giving me skills similar to what's taught in Stanford's CS106B. My educational quest continues with an exciting lineup in the courses of SC201: Deep Learning, Machine Learning, Computer Vision, and NLP with Deep Learning. Stay tuned for updates on my learning milestones!
 
 ### Assignments at a Glance:
-- **Assignment 1:**AI Programming Basics** - Email Validation, Derivatives, Linear Regression
+- **Assignment 1** : **AI Programming Basics** - Email Validation, Derivatives, Linear Regression
 
 
 ## 💻 About stanCode
