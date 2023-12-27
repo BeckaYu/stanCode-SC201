@@ -9,6 +9,7 @@ I have conquered [SC001](https://github.com/BeckaYu/stanCode-SC001.git) and [SC1
 
 ### Assignments at a Glance:
 - **[Assignment 1](https://github.com/BeckaYu/stanCode-SC201/tree/a91286eb17d17c61f2ee4cf345314b960feb97d9/SC201Assignment1)** : **AI Programming Basics** - Email Validation, Derivatives, Linear Regression
+- **[Assignment 2](https://github.com/BeckaYu/stanCode-SC201/tree/a91286eb17d17c61f2ee4cf345314b960feb97d9/SC201Assignment2)** : **Sentiment Analysis** - Analyze movie reviews like Rotten Tomatoes
 
 
 ## 💻 About stanCode
