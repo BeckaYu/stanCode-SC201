@@ -10,7 +10,8 @@ I have conquered [SC001](https://github.com/BeckaYu/stanCode-SC001.git) and [SC1
 ### Assignments at a Glance:
 - **[Assignment 1](https://github.com/BeckaYu/stanCode-SC201/tree/a91286eb17d17c61f2ee4cf345314b960feb97d9/SC201Assignment1)** : **AI Programming Basics** - Email Validation, Derivatives, Linear Regression
 - **[Assignment 2](https://github.com/BeckaYu/stanCode-SC201/tree/71b1e35f247d07966fec95a16a12fc9bb720bdeb/SC201Assignment2)** : **Sentiment Analysis** - Analyze movie reviews like Rotten Tomatoes
-- **[Assignment 3](https://github.com/BeckaYu/stanCode-SC201/tree/0ccf87b9d15e4d2bcd6164077e4a49ba8c34556d/SC201Assignment3)** : **Machine Learning Applications: Classification & Regression** - 1. Titanic Survival Prediction through multi-level data abstraction ; 2. Kaggle challenge: Boston Housing Prices prediction
+- **[Assignment 3](https://github.com/BeckaYu/stanCode-SC201/tree/0ccf87b9d15e4d2bcd6164077e4a49ba8c34556d/SC201Assignment3)** : **Machine Learning: Classification & Regression** - 1. Titanic Survival Prediction through multi-level data abstraction ; 2. Kaggle challenge: Boston Housing Prices prediction
+- **[Assignment 4](https://github.com/BeckaYu/stanCode-SC201/tree/a96c0d52a7f411060ea405fa4d59a0faaafdf4b1/SC201Assignment4QA))** : **Neural Network**: 1. Binary Classification for Titanic survival analysis ; 2. Multi-class Prediction on CIFAR-10 dataset
 
 
 ## 💻 About stanCode
