@@ -2,7 +2,7 @@
 Hello, I'm Rebecca Yu 👋
 
 ## 👩‍💻 About Me
-In May 2023, I shifted gears from Product Management to aspiring Data Analyst, immersing myself in Python through stanCode's rich curriculum. I’m set to join UCLA’s MSBA Program in September 2024 and am excited about making my mark in the U.S. software industry soon after.
+In May 2023, I shifted gears from Product Management to aspiring Data Analyst, immersing myself in Python through stanCode's rich curriculum.
 
 ## 💛 My Journey
 I have conquered [SC001](https://github.com/BeckaYu/stanCode-SC001.git) and [SC101](https://github.com/BeckaYu/stanCode-SC101.git) courses, giving me skills similar to what's taught in Stanford's CS106B. My educational quest continues with an exciting lineup in the courses of SC201: Deep Learning, Machine Learning, Computer Vision, and NLP with Deep Learning. Stay tuned for updates on my learning milestones!
